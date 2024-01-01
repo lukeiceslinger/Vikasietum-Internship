@@ -61,6 +61,7 @@ class ElectricGuitar{
         int x =0;
 
         while(x < allGuitars.length){
+            
             System.out.println("Brand : " + allGuitars[x].getBrand());
             System.out.println("Number of Pickups used : " + allGuitars[x].getNumOfPickups());
             System.out.println("Rock star uses it : " + allGuitars[x].getrockStarUsesIt() + "\n");
