@@ -11,13 +11,25 @@ Welcome to my internship repository at Vikasietum Technologies! This repository 
 - **Java Learning Material:** [Head First Java Book](https://github.com/lukeiceslinger/Vikasietum-Internship/blob/main/Head%20First%20Java%20(Kathy%20Sierra%2C%20Bert%20Bates).pdf)
 - **Upcoming Topics:** Spring Boot, GitLab, Design Patterns, Test-Driven Development (TDD), APIs, Argon, and more.
 
-## Daily Activity
+## Training Program Overview
 
-Each day, I will be pushing my learning progress to this repository. You can find the source code, notes, and any projects I'm working on.
+I will be consistently updating this repository to document my learning journey, aligning with the structured training program outlined below. Each day's update includes progress details, source code, notes, and ongoing project work.
 
-- [Day 1: Introduction to Java](link-to-day-1)
-- [Day 2: Java Basics](link-to-day-2)
-- ...
+### Month 1: Foundations and POC
+- Week 1-2: Core Java Concepts, Communication Skills
+- Week 3-4: Advanced Java Concepts, POC, Stress Management
+
+### Month 2: OOP, Spring Boot, and Mindfulness
+- Week 5-6: OOP, Expand POC, Mindfulness Training
+- Week 7-8: Spring Boot Intro, Simple App POC, Emotional Intelligence
+
+### Month 3: Database, Advanced Spring Boot, Team Building
+- Week 9-10: Database Fundamentals, PostgreSQL, Team Building
+- Week 11-12: Advanced Spring Boot, Enhance POC, Positive Psychology
+
+### Month 4: API Integration, Soft Skills, Self-Reflection
+- Week 13-14: RESTful API Design, Integration, Soft Skills Training
+- Week 15-16: Project Contributions, Spiritual Awareness
 
 ## Technologies Covered
 
