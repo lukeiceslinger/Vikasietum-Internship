@@ -20,7 +20,7 @@ class Arrays{
         Dog fido = new Dog();
         fido.name = "Fido";
 
-        fido.bark();
+        fido.bark(1);
         fido.chaseCat();
 
 
@@ -30,7 +30,7 @@ class Arrays{
 
         myDog[0] = new Dog();
         myDog[0].name = "fido";
-        myDog[0].bark();
+        myDog[0].bark(1);
 
 
 
