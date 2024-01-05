@@ -40,10 +40,6 @@ public class GoodDogTestDrive {
         System.out.println("Oreo says : " + oreo.bark());
         System.out.println("Oreo says : " + trippy.bark());
 
-
-
-
-
-
+        sc.close();
     }
 }
