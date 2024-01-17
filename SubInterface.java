@@ -1,5 +1,5 @@
 import java.util.*;
-public class SubInterface {
+public class SubInterface<S> {
 
     public static void main(String[] args) {
 
