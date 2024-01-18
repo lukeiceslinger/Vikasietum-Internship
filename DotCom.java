@@ -2,11 +2,14 @@ import java.util.ArrayList;
 
 public class DotCom {
     private ArrayList<String> locationCells;
+    private String name;
 
 
     public void setLocationCells(ArrayList<String> loc){
         locationCells = loc;
     }
+
+
 
     public String checkYourself(String userInput){
         String result = "miss";
@@ -23,6 +26,11 @@ public class DotCom {
             }
         }
         return result;
+    }
+
+
+    public void setName(String n){
+        name = n;
     }
 
 }
