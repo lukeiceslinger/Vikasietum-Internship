@@ -2,3 +2,6 @@
 /shelf/
 /workspace.xml
 *.class
+# Ignore .class files
+*.class
+**/*.class
