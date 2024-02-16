@@ -19,7 +19,7 @@ class Rowboat extends Boat{
 }
 
 class TestBoats{
-    public static void main(String[] args){x
+    public static void main(String[] args){
         Boat b1 = new Boat();
         Sailboat b2 = new Sailboat();
         Rowboat b3 = new Rowboat();
@@ -35,3 +35,4 @@ class Sailboat extends Boat{
        System.out.print(" hoist sail");
    }
 }
+
