@@ -40,18 +40,12 @@ I will be consistently updating this repository to document my learning journey,
 - **Testing:** Test-Driven Development (TDD)
 - **Technologies:** APIs, Argon, and more to come!
 
-## How to Navigate the Repository
-
-- Each day's activities are organized in separate directories (e.g., `day-1`, `day-2`).
-- Project folders will contain specific project details and code.
-
-## Getting Started
-
-If you are interested in following my learning journey or exploring the projects, feel free to clone the repository:
-
+## Related Repositories
+**Spring-Boot**
 ```bash
-git clone https://github.com/your-username/internship-repo.git
+https://github.com/lukeiceslinger/Spring-Boot.git
 ```
+
 ## Acknowledgments
 
 I want to express my gratitude to Vikasietum Technologies for providing me with this valuable learning opportunity.
