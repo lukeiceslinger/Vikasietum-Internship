@@ -1,0 +1,25 @@
+From AmazonLoginController.java:
+        createOrEditOrganiser(String, Integer)
+From ChartAndMapStateController.java:
+        aveChartsAndMapsState(SaveChartAndMapRO, HttpServletRequest)
+From LabelAndGoalController.java:
+        saveOrUpdateLabels(HttpServletRequest, List<LabelCollection>)
+From SellingPartnerController.java:
+        refreshDataForAllProfiles(Date)
+From TableColumnStateController.java:
+        saveTableColumnState(ColumnStateRO, HttpServletRequest)
+From UserController.java:
+        authenticateUser(Integer, String)
+        accountAuthentication(Integer, String)
+        emailChangeAuthentication(Integer, String)
+        passwordChangeAuthentication(Integer, String, String)
+From com.primeup.buyq.platformservice.dao:
+        Various methods in the DAO classes such as updateAll() and saveOrUpdatePlannedBudgetForProfile()
+From com.primeup.buyq.platformservice.helper.BackgroundTasks.java:
+        Various methods like updateKeywordBidHistory() and saveHsaKeywordToKeywordBidHistory()
+From com.primeup.buyq.platformservice.schedulers:
+        Various methods like bidRuleSchedulingProcess() and onlyRefreshProfiles()
+From com.primeup.buyq.platformservice.service.impl:
+        Various methods like processAddAdGroupBidSchedulerRequest() and processAddKeywordBidSchedulerRequest()
+From com.primeup.buyq.platformservice.services:
+        Various methods like createNegativeKeywords(), setOrUpdateTargetAcos(), setOrUpdateRealRevenuePercentage(), and saveOrUpdateLabelCollection()
