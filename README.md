@@ -43,6 +43,8 @@ I will be consistently updating this repository to document my learning journey,
 ## Related Repositories
 **Spring-Boot**
 ```bash
+https://github.com/lukeiceslinger/AutomatedTimestampLoggingSystem
+https://github.com/lukeiceslinger/Websocket-Phoenix
 https://github.com/lukeiceslinger/Spring-Boot.git
 ```
 
